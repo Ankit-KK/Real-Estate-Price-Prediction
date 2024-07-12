@@ -1,5 +1,7 @@
 # Real Estate Price Prediction Using Machine Learning Techniques
 
+![Alt text](image_url)
+
 ## Introduction
 In the ever-evolving real estate market, accurately forecasting property prices is paramount for stakeholders, including buyers, sellers, investors, and real estate professionals. This project seeks to harness the power of machine learning algorithms to create a robust predictive model for real estate prices. Utilizing a rich dataset that encompasses a wide range of property features—such as square footage, number of rooms, the presence of amenities (yard, pool, basement, attic, garage), and additional relevant factors—this project aims to uncover the underlying patterns and key determinants that influence property valuations.
 
