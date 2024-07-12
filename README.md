@@ -55,7 +55,6 @@ The project successfully created a predictive model for real estate prices, with
 To use this project, clone the repository and ensure you have the required libraries installed. Run the scripts to explore the data and visualize the insights.
 
 ```bash
-git clone [<repository-url>](https://github.com/Ankit-KK/Real-Estate-Price-Prediction/)
-cd <repository-directory>
+git clone https://github.com/Ankit-KK/Real-Estate-Price-Prediction
+cd Real-Estate-Price-Prediction
 pip install -r requirements.txt
-python main.py
